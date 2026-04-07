@@ -1,0 +1,13 @@
+# Voice profiles (users generate their own)
+.aiwg/voices/*.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
