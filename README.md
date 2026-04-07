@@ -258,4 +258,10 @@ License
 MIT - do whatever you want with it.
 ---
 Built by Angela Ai Specialist for people who are tired of AI writing that sounds like AI writing.
+<<<<<<< HEAD
 Join the Facebook group for tips, new voice profiles, and updates.
+=======
+Join the Facebook group for tips, new voice profiles, and updates.
+ 
+ 
+>>>>>>> 59ec186a241a240b3884561f0e9391739cb97906
